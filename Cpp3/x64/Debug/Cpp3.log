@@ -1,7 +1,15 @@
-﻿  1. string_dynamic_allocation.cpp
-  2. struct.cpp
-  3. class.cpp
-  4. class.cpp
-  5. class.cpp
-  코드를 생성하고 있습니다...
+﻿  7.class.cpp
+C:\Dev\C++\Cpp3\7.class.cpp(143,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dev\C++\Cpp3\7.class.cpp(143,28): warning C4244: '=': 'int64_t'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dev\C++\Cpp3\7.class.cpp(164,10): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(164,10): warning C4309: '=': 상수 값이 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(168,10): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(168,10): warning C4309: '=': 상수 값이 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(172,10): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(172,10): warning C4309: '=': 상수 값이 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(176,10): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(176,10): warning C4309: '=': 상수 값이 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(180,10): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(180,10): warning C4309: '=': 상수 값이 잘립니다.
+C:\Dev\C++\Cpp3\7.class.cpp(181,24): warning C4244: '=': 'int64_t'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Cpp3.vcxproj -> C:\Dev\C++\C++\x64\Debug\Cpp3.exe
